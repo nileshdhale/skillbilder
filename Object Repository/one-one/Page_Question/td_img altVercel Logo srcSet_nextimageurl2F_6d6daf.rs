@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_img altVercel Logo srcSet_nextimageurl2F_6d6daf</name>
+   <tag></tag>
+   <elementGuidId>bb4724f2-7fc4-47c9-b831-8e06ff5e638e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/form/div/div[2]/div/div/table/tbody/tr/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;img alt=&quot;Vercel Logo&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Medium</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wf-section&quot;]/div[@class=&quot;bs&quot;]/form[1]/div[@class=&quot;mb-5 container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;Table__TableWrapper-sc-psd69h-0 eHcTbQ&quot;]/div[@class=&quot;bs&quot;]/table[@class=&quot;DataTable__StyledTable-sc-1lk0zln-0 jBDaij table table-bordered&quot;]/tbody[1]/tr[1]/td[5]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/form/div/div[2]/div/div/table/tbody/tr/td[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Always'])[2]/following::td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Calculated)'])[1]/following::td[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sometimes'])[1]/preceding::td[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr/td[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '&lt;img alt=&quot;Vercel Logo&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Medium' or . = '&lt;img alt=&quot;Vercel Logo&quot; srcSet=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=32&amp;amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75 2x&quot; src=&quot;/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh.ed3aeff2.svg&amp;amp;w=64&amp;amp;q=75&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Medium')]</value>
+   </webElementXpaths>
+</WebElementEntity>
